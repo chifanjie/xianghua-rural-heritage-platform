@@ -1,0 +1,250 @@
+data: [
+    {
+        name: "种植业", des: "种植业", symbolSize: 100, category: 3
+    },
+    {
+        name: "养殖业", des: "养殖业", symbolSize: 100, category: 3
+    },
+    {
+        name: "粮油", des: "粮油", symbolSize: 41, category: 0
+    },
+    {
+        name: "谷类", des: "谷类", symbolSize: 27, category: 0
+    },
+    {
+        name: "杂粮", des: "杂粮", symbolSize: 24, category: 0
+    },
+    {
+        name: "油料", des: "油料", symbolSize: 31, category: 0
+    },
+    {
+        name: "瓜果", des: "瓜果", symbolSize: 47, category: 1
+    },
+    {
+        name: "仁果类", des: "仁果类", symbolSize: 69, category: 1
+    },
+    {
+        name: "核果类", des: "核果类", symbolSize: 56, category: 1
+    },
+    {
+        name: "浆果类", des: "浆果类", symbolSize: 38, category: 1
+    },
+    {
+        name: "坚果类", des: "坚果类", symbolSize: 33, category: 1
+    },
+    {
+        name: "柑桔类", des: "柑桔类", symbolSize: 51, category: 1
+    },
+    {
+        name: "复果类", des: "复果类", symbolSize: 67, category: 1
+    },
+    {
+        name: "瓜类", des: "瓜类", symbolSize: 39, category: 1
+    },
+    {
+        name: "蔬菜", des: "蔬菜", symbolSize: 52, category: 2
+    },
+    {
+        name: "根菜类", des: "根菜类", symbolSize: 28, category: 2
+    },
+    {
+        name: "茎菜类", des: "茎菜类", symbolSize: 59, category: 2
+    },
+    {
+        name: "叶菜类", des: "叶菜类", symbolSize: 37, category: 2
+    },
+    {
+        name: "果菜类", des: "果菜类", symbolSize: 54, category: 2
+    },
+    {
+        name: "花菜类", des: "花菜类", symbolSize: 60, category: 2
+    },
+    {
+        name: "食用菌类", des: "食用菌类", symbolSize: 48, category: 2
+    },
+    {
+        name: "其他", des: "其他", symbolSize: 53, category: 3
+    },
+    {
+        name: "棉麻", des: "棉麻", symbolSize: 41, category: 3
+    },
+    {
+        name: "中药材", des: "中药材", symbolSize: 61, category: 3
+    },
+    {
+        name: "林业产品", des: "林业产品", symbolSize: 65, category: 3
+    },
+    {
+        name: "烟叶", des: "烟叶", symbolSize: 30, category: 3
+    },
+    {
+        name: "禽类及其副产品", des: "禽类及其副产品", symbolSize: 34, category: 4
+    },
+    {
+        name: "肉类", des: "肉类", symbolSize: 62, category: 4
+    },
+    {
+        name: "蛋类", des: "蛋类", symbolSize: 50, category: 4
+    },
+    {
+        name: "皮毛", des: "皮毛", symbolSize: 24, category: 4
+    },
+    {
+        name: "畜牧及其副产品", des: "畜牧及其副产品", symbolSize: 25, category: 5
+    },
+    {
+        name: "肉制品", des: "肉制品", symbolSize: 21, category: 5
+    },
+    {
+        name: "乳制品", des: "乳制品", symbolSize: 66, category: 5
+    },
+    {
+        name: "皮毛", des: "皮毛", symbolSize: 55, category: 5
+    },
+    {
+        name: "水产及其副产品", des: "水产及其副产品", symbolSize: 47, category: 6
+    },
+    {
+        name: "鱼类", des: "鱼类", symbolSize: 44, category: 6
+    },
+    {
+        name: "虾蟹类", des: "虾蟹类", symbolSize: 43, category: 6
+    },
+    {
+        name: "贝类", des: "贝类", symbolSize: 30, category: 6
+    },
+    {
+        name: "藻类", des: "藻类", symbolSize: 39, category: 6
+    },
+    {
+        name: "其他", des: "其他", symbolSize: 25, category: 3
+    },
+    {
+        name: "蜂产品", des: "蜂产品", symbolSize: 33, category: 3
+    },
+    {
+        name: "蚕茧", des: "蚕茧", symbolSize: 55, category: 3
+    }
+],
+links: [
+    {
+        source: "种植业", target: "粮油", name: ""
+    },
+    {
+        source: "粮油", target: "谷类", name: ""
+    },
+    {
+        source: "粮油", target: "杂粮", name: ""
+    },
+    {
+        source: "粮油", target: "油料", name: ""
+    },
+    {
+        source: "种植业", target: "瓜果", name: ""
+    },
+    {
+        source: "瓜果", target: "仁果类", name: ""
+    },
+    {
+        source: "瓜果", target: "核果类", name: ""
+    },
+    {
+        source: "瓜果", target: "浆果类", name: ""
+    },
+    {
+        source: "瓜果", target: "坚果类", name: ""
+    },
+    {
+        source: "瓜果", target: "柑桔类", name: ""
+    },
+    {
+        source: "瓜果", target: "复果类", name: ""
+    },
+    {
+        source: "瓜果", target: "瓜类", name: ""
+    },
+    {
+        source: "种植业", target: "蔬菜", name: ""
+    },
+    {
+        source: "蔬菜", target: "根菜类", name: ""
+    },
+    {
+        source: "蔬菜", target: "茎菜类", name: ""
+    },
+    {
+        source: "蔬菜", target: "叶菜类", name: ""
+    },
+    {
+        source: "蔬菜", target: "果菜类", name: ""
+    },
+    {
+        source: "蔬菜", target: "花菜类", name: ""
+    },
+    {
+        source: "蔬菜", target: "食用菌类", name: ""
+    },
+    {
+        source: "种植业", target: "其他", name: ""
+    },
+    {
+        source: "其他", target: "棉麻", name: ""
+    },
+    {
+        source: "其他", target: "中药材", name: ""
+    },
+    {
+        source: "其他", target: "林业产品", name: ""
+    },
+    {
+        source: "其他", target: "烟叶", name: ""
+    },
+    {
+        source: "养殖业", target: "禽类及其副产品", name: ""
+    },
+    {
+        source: "禽类及其副产品", target: "肉类", name: ""
+    },
+    {
+        source: "禽类及其副产品", target: "蛋类", name: ""
+    },
+    {
+        source: "禽类及其副产品", target: "皮毛", name: ""
+    },
+    {
+        source: "养殖业", target: "畜牧及其副产品", name: ""
+    },
+    {
+        source: "畜牧及其副产品", target: "肉制品", name: ""
+    },
+    {
+        source: "畜牧及其副产品", target: "乳制品", name: ""
+    },
+    {
+        source: "畜牧及其副产品", target: "皮毛", name: ""
+    },
+    {
+        source: "养殖业", target: "水产及其副产品", name: ""
+    },
+    {
+        source: "水产及其副产品", target: "鱼类", name: ""
+    },
+    {
+        source: "水产及其副产品", target: "虾蟹类", name: ""
+    },
+    {
+        source: "水产及其副产品", target: "贝类", name: ""
+    },
+    {
+        source: "水产及其副产品", target: "藻类", name: ""
+    },
+    {
+        source: "养殖业", target: "其他", name: ""
+    },
+    {
+        source: "其他", target: "蜂产品", name: ""
+    },
+    {
+        source: "其他", target: "蚕茧", name: ""
+    }
+],

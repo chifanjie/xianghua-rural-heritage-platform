@@ -1,0 +1,284 @@
+{
+  "data": [
+    {name: "云锦", des: "云锦", symbolSize: 43, itemStyle: {color: "#ff9f7f"
+      }
+    },
+    {name: "雕刻", des: "雕刻", symbolSize: 60, itemStyle: {color: "#ed8884"
+      }
+    },
+    {name: "绣", des: "绣", symbolSize: 39, itemStyle: {color: "#60cda0"
+      }
+    },
+    {name: "剪纸", des: "剪纸", symbolSize: 32, itemStyle: {color: "#ed8884"
+      }
+    },
+    {name: "彩绘", des: "彩绘", symbolSize: 27, itemStyle: {color: "#32c5e9"
+      }
+    },
+    {name: "套印", des: "套印", symbolSize: 33, itemStyle: {color: "#0096ff"
+      }
+    },
+    {name: "手绘", des: "手绘", symbolSize: 31, itemStyle: {color: "#9fe6b8"
+      }
+    },
+    {name: "龙纹", des: "龙纹", symbolSize: 54, itemStyle: {color: "#9fe6b8"
+      }
+    },
+    {name: "织金", des: "织金", symbolSize: 44, itemStyle: {color: "#ff9f7f"
+      }
+    },
+    {name: "彩绣", des: "彩绣", symbolSize: 47, itemStyle: {color: "#ed8884"
+      }
+    },
+    {name: "木版年画", des: "木版年画", symbolSize: 42, itemStyle: {color: "#0096ff"
+      }
+    },
+    {name: "堆金", des: "堆金", symbolSize: 30, itemStyle: {color: "#1d9dff"
+      }
+    },
+    {name: "青花", des: "青花", symbolSize: 32, itemStyle: {color: "#60cda0"
+      }
+    },
+    {name: "缂丝", des: "缂丝", symbolSize: 40, itemStyle: {color: "#ff9f7f"
+      }
+    },
+    {name: "鎏金", des: "鎏金", symbolSize: 68, itemStyle: {color: "#32c5e9"
+      }
+    },
+    {name: "戗金彩漆", des: "戗金彩漆", symbolSize: 28, itemStyle: {color: "#ed8884"
+      }
+    },
+    {name: "漆器", des: "漆器", symbolSize: 43, itemStyle: {color: "#60cda0"
+      }
+    },
+    {name: "剔红", des: "剔红", symbolSize: 42, itemStyle: {color: "#1d9dff"
+      }
+    },
+    {name: "剔彩", des: "剔彩", symbolSize: 24, itemStyle: {color: "#ed8884"
+      }
+    },
+    {name: "珐琅", des: "珐琅", symbolSize: 34, itemStyle: {color: "#1d9dff"
+      }
+    },
+    {name: "描金", des: "描金", symbolSize: 51, itemStyle: {color: "#006cff"
+      }
+    },
+    {name: "掐丝珐琅", des: "掐丝珐琅", symbolSize: 62, itemStyle: {color: "#32c5e9"
+      }
+    },
+    {name: "平绣", des: "平绣", symbolSize: 28, itemStyle: {color: "#1d9dff"
+      }
+    },
+    {name: "金绣", des: "金绣", symbolSize: 47, itemStyle: {color: "#9fe6b8"
+      }
+    },
+    {name: "钉金绣", des: "钉金绣", symbolSize: 50, itemStyle: {color: "#1d9dff"
+      }
+    },
+    {name: "镶边", des: "镶边", symbolSize: 51, itemStyle: {color: "#ed8884"
+      }
+    },
+    {name: "刺绣", des: "刺绣", symbolSize: 23, itemStyle: {color: "#32c5e9"
+      }
+    },
+    {name: "蜡染", des: "蜡染", symbolSize: 65, itemStyle: {color: "#ff9f7f"
+      }
+    },
+    {name: "纱绣", des: "纱绣", symbolSize: 35, itemStyle: {color: "#60cda0"
+      }
+    },
+    {name: "贴布绣", des: "贴布绣", symbolSize: 70, itemStyle: {color: "#1d9dff"
+      }
+    },
+    {name: "贴绣", des: "贴绣", symbolSize: 70, itemStyle: {color: "#ff9f7f"
+      }
+    },
+    {name: "平金银绣", des: "平金银绣", symbolSize: 44, itemStyle: {color: "#9fe6b8"
+      }
+    },
+    {name: "金银迭绣", des: "金银迭绣", symbolSize: 42, itemStyle: {color: "#ed8884"
+      }
+    },
+    {name: "浮雕", des: "浮雕", symbolSize: 46, itemStyle: {color: "#0096ff"
+      }
+    },
+    {name: "贴花", des: "贴花", symbolSize: 40, itemStyle: {color: "#006cff"
+      }
+    },
+    {name: "印金", des: "印金", symbolSize: 58, itemStyle: {color: "#9fe6b8"
+      }
+    },
+    {name: "釉里红", des: "釉里红", symbolSize: 54, itemStyle: {color: "#006cff"
+      }
+    },
+    {name: "珐琅彩", des: "珐琅彩", symbolSize: 51, itemStyle: {color: "#9fe6b8"
+      }
+    },
+    {name: "镂雕", des: "镂雕", symbolSize: 42, itemStyle: {color: "#006cff"
+      }
+    },
+    {name: "绞绣", des: "绞绣", symbolSize: 24, itemStyle: {color: "#0096ff"
+      }
+    },
+    {name: "点翠", des: "点翠", symbolSize: 51, itemStyle: {color: "#006cff"
+      }
+    },
+    {name: "玉雕", des: "玉雕", symbolSize: 54, itemStyle: {color: "#ff9f7f"
+      }
+    },
+    {name: "石刻", des: "石刻", symbolSize: 29, itemStyle: {color: "#9fe6b8"
+      }
+    },
+    {name: "石雕", des: "石雕", symbolSize: 62, itemStyle: {color: "#60cda0"
+      }
+    },
+    {name: "黑漆描金", des: "黑漆描金", symbolSize: 42, itemStyle: {color: "#1d9dff"
+      }
+    },
+    {name: "木雕", des: "木雕", symbolSize: 31, itemStyle: {color: "#ff9f7f"
+      }
+    },
+    {name: "京绣", des: "京绣", symbolSize: 44, itemStyle: {color: "#9fe6b8"
+      }
+    },
+    {name: "捻花", des: "捻花", symbolSize: 55, itemStyle: {color: "#32c5e9"
+      }
+    },
+    {name: "塑贴", des: "塑贴", symbolSize: 30, itemStyle: {color: "#006cff"
+      }
+    },
+    {name: "夹缬", des: "夹缬", symbolSize: 26, itemStyle: {color: "#006cff"
+      }
+    },
+    {name: "双针绣", des: "双针绣", symbolSize: 67, itemStyle: {color: "#006cff"
+      }
+    },
+    {name: "象牙雕", des: "象牙雕", symbolSize: 25, itemStyle: {color: "#32c5e9"
+      }
+    },
+    {name: "彩绘陶", des: "彩绘陶", symbolSize: 38, itemStyle: {color: "#60cda0"
+      }
+    },
+    {name: "纸扎", des: "纸扎", symbolSize: 39, itemStyle: {color: "#0096ff"
+      }
+    },
+    {name: "瓷鱼", des: "瓷鱼", symbolSize: 47, itemStyle: {color: "#0096ff"
+      }
+    },
+    {name: "工艺列表", des: "工艺列表", symbolSize: 32, itemStyle: {color: "#006cff"
+      }
+    }
+  ],
+  "links": [
+    {target: "工艺列表", source: "云锦", name: ""
+    },
+    {target: "工艺列表", source: "雕刻", name: ""
+    },
+    {target: "工艺列表", source: "绣", name: ""
+    },
+    {target: "工艺列表", source: "剪纸", name: ""
+    },
+    {target: "工艺列表", source: "彩绘", name: ""
+    },
+    {target: "工艺列表", source: "套印", name: ""
+    },
+    {target: "工艺列表", source: "手绘", name: ""
+    },
+    {target: "工艺列表", source: "龙纹", name: ""
+    },
+    {target: "工艺列表", source: "织金", name: ""
+    },
+    {target: "工艺列表", source: "彩绣", name: ""
+    },
+    {target: "工艺列表", source: "木版年画", name: ""
+    },
+    {target: "工艺列表", source: "堆金", name: ""
+    },
+    {target: "工艺列表", source: "青花", name: ""
+    },
+    {target: "工艺列表", source: "缂丝", name: ""
+    },
+    {target: "工艺列表", source: "鎏金", name: ""
+    },
+    {target: "工艺列表", source: "戗金彩漆", name: ""
+    },
+    {target: "工艺列表", source: "漆器", name: ""
+    },
+    {target: "工艺列表", source: "剔红", name: ""
+    },
+    {target: "工艺列表", source: "剔彩", name: ""
+    },
+    {target: "工艺列表", source: "珐琅", name: ""
+    },
+    {target: "工艺列表", source: "描金", name: ""
+    },
+    {target: "工艺列表", source: "掐丝珐琅", name: ""
+    },
+    {target: "工艺列表", source: "平绣", name: ""
+    },
+    {target: "工艺列表", source: "金绣", name: ""
+    },
+    {target: "工艺列表", source: "钉金绣", name: ""
+    },
+    {target: "工艺列表", source: "镶边", name: ""
+    },
+    {target: "工艺列表", source: "刺绣", name: ""
+    },
+    {target: "工艺列表", source: "蜡染", name: ""
+    },
+    {target: "工艺列表", source: "纱绣", name: ""
+    },
+    {target: "工艺列表", source: "贴布绣", name: ""
+    },
+    {target: "工艺列表", source: "贴绣", name: ""
+    },
+    {target: "工艺列表", source: "平金银绣", name: ""
+    },
+    {target: "工艺列表", source: "金银迭绣", name: ""
+    },
+    {target: "工艺列表", source: "浮雕", name: ""
+    },
+    {target: "工艺列表", source: "贴花", name: ""
+    },
+    {target: "工艺列表", source: "印金", name: ""
+    },
+    {target: "工艺列表", source: "釉里红", name: ""
+    },
+    {target: "工艺列表", source: "珐琅彩", name: ""
+    },
+    {target: "工艺列表", source: "镂雕", name: ""
+    },
+    {target: "工艺列表", source: "绞绣", name: ""
+    },
+    {target: "工艺列表", source: "点翠", name: ""
+    },
+    {target: "工艺列表", source: "玉雕", name: ""
+    },
+    {target: "工艺列表", source: "石刻", name: ""
+    },
+    {target: "工艺列表", source: "石雕", name: ""
+    },
+    {target: "工艺列表", source: "黑漆描金", name: ""
+    },
+    {target: "工艺列表", source: "木雕", name: ""
+    },
+    {target: "工艺列表", source: "京绣", name: ""
+    },
+    {target: "工艺列表", source: "捻花", name: ""
+    },
+    {target: "工艺列表", source: "塑贴", name: ""
+    },
+    {target: "工艺列表", source: "夹缬", name: ""
+    },
+    {target: "工艺列表", source: "双针绣", name: ""
+    },
+    {target: "工艺列表", source: "象牙雕", name: ""
+    },
+    {target: "工艺列表", source: "彩绘陶", name: ""
+    },
+    {target: "工艺列表", source: "纸扎", name: ""
+    },
+    {target: "工艺列表", source: "瓷鱼", name: ""
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "内蒙古",
+      "intro": "草原的赞歌",
+      "category": "画片",
+      "image": "huapian/内蒙古2.png"
+    },
+    {
+      "name": "新疆",
+      "intro": "天山守护的土地",
+      "category": "画片",
+      "image": "huapian/新疆.png"
+    },
+    {
+      "name": "苏州",
+      "intro": "诗歌天然地",
+      "category": "画片",
+      "image": "huapian/苏州.png"
+    },
+    {
+      "name": "贵州",
+      "intro": "苗族与银器",
+      "category": "画片",
+      "image": "huapian/贵州.png"
+    },
+    {
+      "name": "云南",
+      "intro": "自然与人文",
+      "category": "画片",
+      "image": "huapian/云南.png"
+    }
+  ]
+}
+
+

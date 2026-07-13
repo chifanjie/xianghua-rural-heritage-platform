@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.rrmplatform.mapper.HeritageMapper">
+    <select id="selectByHName" resultType="com.example.rrmplatform.pojo.Heritage" parameterType="String">
+        SELECT *
+        FROM Heritage
+        WHERE HName=#{name}
+    </select>
+</mapper>
