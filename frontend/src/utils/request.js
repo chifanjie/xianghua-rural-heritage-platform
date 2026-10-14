@@ -1,9 +1,8 @@
 import axios from 'axios'
 import router from "@/router";
-import {serverIp} from "../../public/config";
 
 const request = axios.create({
-    baseURL: `http://${serverIp}:9090`,
+    baseURL: process.env.VUE_APP_API_BASE_URL || 'http://127.0.0.1:9090',
     timeout: 30000
 })
 

@@ -3,6 +3,8 @@
 application*.yml
 application*.yaml
 application*.properties
+!.env.example
+!application.example.yml
 
 node_modules/
 oh_modules/
