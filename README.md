@@ -2,7 +2,7 @@
 
 将乡村非遗、农特产内容展示与地图、词云、统计图结合的课程团队作品。项目保留 Vue 2 展示端，以及管理用户、非遗条目、农产品和评论的 Spring Boot 后端，适合了解内容型网站与可视化页面的组织方式。
 
-**课程团队项目；项目负责人 / 维护者：迟凡杰。** 页面、业务代码和素材由团队协作整理，本页不声称所有模块均由负责人独立完成。
+**课程团队项目 · 项目负责人 / 维护者：迟凡杰。** 页面、业务代码和素材由团队协作完成。
 
 [展示页面](frontend/src/views/front/) · [可视化数据](frontend/src/assets/) · [后端接口](backend/src/main/java/com/example/rrmplatform/controller/) · [前端配置示例](frontend/.env.example) · [后端配置示例](backend/src/main/resources/application.example.yml)
 
@@ -17,7 +17,7 @@
 | 内容与评论接口 | `HeritageController`、`GoodController`、`CommentController` |
 | 账户与访问控制 | `UserController`、Shiro 配置与 Realm |
 
-前端部分内容直接来自本地 JSON，另一些行为依赖后端。图表不代表正在更新的真实商业数据。
+前端使用本地 JSON 展示课程示例内容，账户、评论等交互由后端提供；图表数据用于演示，不作实时更新。
 
 ## 技术与架构
 
@@ -49,7 +49,7 @@ backend/src/main/resources/mapper/  SQL 映射
 
 ## 本地查看与复现准备
 
-**仓库没有数据库建表 SQL、完整种子数据和完整媒体文件，当前不是开箱即用的整站部署包。** 本次公开整理未安装依赖、启动服务或执行测试，以下为工程入口和必要条件。
+本仓库保留前后端源码；复现需补齐数据库结构、初始化数据和部分媒体资源。以下为工程入口和必要条件，完整构建与端到端运行尚待验证。
 
 ### 前端入口
 
@@ -72,7 +72,7 @@ npm run serve
 3. 提供 `DB_URL`、`DB_USERNAME`、`DB_PASSWORD`，准备与实体和 Mapper 一致的数据库表及合成演示数据。
 4. 条件具备后运行 `com.example.rrmplatform.RrmPlatformApplication`；也可在 `backend/` 执行 `mvn spring-boot:run`。
 
-示例后端端口为 9090。仅复制配置文件不能补齐数据库，这里没有臆造 SQL 或可用登录账号。
+示例后端端口为 `9090`。仓库未附建表 SQL 和默认账号，需结合实体与 Mapper 初始化本地数据库。
 
 ## 数据、素材与当前限制
 
@@ -83,6 +83,6 @@ npm run serve
 
 ## 团队贡献与来源
 
-这是团队课程成果，维护者信息不等同于全部代码的原创归属，个人贡献应依据实际分工和提交记录补充。保留第三方署名和原有说明。
+项目由课程团队协作完成，成员贡献以实际分工和提交记录为准。第三方署名和原有说明予以保留。
 
 仓库目前没有统一的项目 LICENSE。公开源码不等于对第三方地图、图片、文本及全部团队代码授予再分发许可，复用前应确认对应来源的授权范围。
